@@ -15,6 +15,8 @@ Integrated Basic Chat Module for Humhub v1.1.2+
 ## [Privacybox](https://github.com/GreenVolume/humhub-modules-privacybox)
 Forces users to accept/decline the Privacy Policy of your site
 
+## [Custom Mail](https://github.com/GreenVolume/Custom-Humhub-Mail-Module)
+Private messaging system to communicate with one or more users.
+
 ### Support or Contact
 Having trouble with our Modules? [Contact us](mailto:tsuharusarah@gmail.com) and we’ll help you sort it out.
-
