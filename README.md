@@ -27,5 +27,8 @@ This is a Humhub module where admins can certify the person as being a real pers
 ## [Groups Module](https://github.com/GreenVolume/humhub-groups-module)
 Adds a panel to the Dashboard and displays group members.
 
+## [Facebook Pages Module](https://github.com/GreenVolume/humhub-facebook-module)
+Adds a Facebook page widget to Humhub's sidebar.
+
 ### Support or Contact
 Having trouble with our Modules? [Contact us](mailto:tsuharusarah@gmail.com) and we’ll help you sort it out.
