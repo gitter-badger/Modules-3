@@ -1,7 +1,7 @@
 ## Modules
 You'll find a list of the following Modules that we personally worked on or created for personal and public use.
 
-[![Join the chat at https://gitter.im/GVHub/Lobby](https://badges.gitter.im/GVHub/Lobby.svg)](https://gitter.im/GVHub/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/GreenVolume](https://badges.gitter.im/GreenVolume.svg)](https://gitter.im/GreenVolume?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## [RESTful API](https://github.com/GreenVolume/humhub-RESTful-API)
 Implements a JSON RESTful API for HumHub
@@ -29,6 +29,9 @@ Adds a panel to the Dashboard and displays group members.
 
 ## [Facebook Pages Module](https://github.com/GreenVolume/humhub-facebook-module)
 Adds a Facebook page widget to Humhub's sidebar.
+
+## [GitHub Module](https://github.com/GreenVolume/humhub-github-module)
+Adds a GitHub card widget to the dashboard, profiles and spaces of your site.
 
 ### Support or Contact
 Having trouble with our Modules? [Contact us](mailto:tsuharusarah@gmail.com) and we’ll help you sort it out.
