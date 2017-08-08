@@ -35,5 +35,23 @@ Forces users to accept/decline the Privacy Policy of your site.
 ## [RESTful API](https://github.com/GreenVolume/humhub-RESTful-API)
 Implements a JSON RESTful API for HumHub.
 
+## [**Music Player**](https://github.com/GreenVolume/HumHub-Music-Player)
+This is a Music Player Module for the HumHub CMS, to play Soundcloud Playlists. Not 100% ready (Original creator @WebCrew )
+
+## [**Devmode**](https://github.com/GreenVolume/humhub-modules-devmode)
+Adds ability to put HumHub in Development Mode, restricting access to anyone but admins. (Original creator @WASasquatch )
+
+## [**WebShell**](humhub-webshell-module)
+Web shell allows to run yii console commands using a browser (Inspired by original works from @samdark )
+
+## [**HumHub Messenger**](https://github.com/GreenVolume/HumHub-Messenger)
+Adds a TogetherJS Messenger App to HumHub's Frontend. (Original creator @WebCrew then transfered to @GreenVolume )
+
+## [**Humhub Gallery**](https://github.com/GreenVolume/Humhub-yii2Gallery-module)
+Yii2 Gallery module ported over to use in humhub.
+
+## [**HumHub Fireside**](https://github.com/GreenVolume/humhub-fireside)
+This is a forums module for HumHub.
+
 ### Support or Contact
 Having trouble with our Modules? [Contact us](mailto:tsuharusarah@gmail.com) and we’ll help you sort it out.
