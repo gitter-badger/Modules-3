@@ -1,4 +1,6 @@
 # Modules
+
+[![Join the chat at https://gitter.im/GreenMeteor/Modules](https://badges.gitter.im/GreenMeteor/Modules.svg)](https://gitter.im/GreenMeteor/Modules?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 You'll find a list of the following Modules that we personally worked on or created for personal and public use.
 
 [![Join the chat at https://gitter.im/GreenMeteor](https://badges.gitter.im/GreenMeteor.svg)](https://gitter.im/GreenMeteor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
